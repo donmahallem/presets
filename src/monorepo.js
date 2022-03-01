@@ -86,6 +86,7 @@ const repoGroups = {
   nuxtjs: 'https://github.com/nuxt/nuxt.js',
   openfeign: 'https://github.com/OpenFeign/feign',
   picasso: 'https://github.com/qlik-oss/picasso.js',
+  pixijs: 'https://github.com/pixijs/pixijs',
   pollyjs: 'https://github.com/Netflix/pollyjs',
   pouchdb: 'https://github.com/pouchdb/pouchdb',
   react: 'https://github.com/facebook/react',
